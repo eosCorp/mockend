@@ -26,12 +26,6 @@
     },
     "isPublic": {
       "boolean": {}
-    },
-	"posts":{
-		"title": { "string": { "minLength": 15, "maxLength": 100 } },
-         "comments": {
-             "body": { "string": { "minLength": 3, "maxLength": 500 }},
-		}
-     }
+    }
 	}
  }
